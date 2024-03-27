@@ -135,4 +135,10 @@ body {
     font-size: 14px;
     font-weight: 700;
     line-height: 150%;
+} 
+.profile-social__link:hover {
+    background-color: #C4F82A;
+    color: var(--Grey, var(--Grey, #333));
+    cursor: pointer ;
+
 }
